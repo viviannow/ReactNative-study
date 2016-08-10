@@ -1,3 +1,4 @@
+```
 # ReactNative-study
 ReactNative学习项目 
 学习网址：
@@ -11,11 +12,11 @@ https://developer.apple.com/
 
 软件：
 
-Homebrew : Mac系统的包管理器，用于安装NodeJS和一些其他必需的工具软件  http://brew.sh/  可换成中文
+Homebrew : Mac系统的包管理器，用于安装NodeJS和一些其他必需的工具软件  http://brew.sh/  可换成中文  
 
-	把下面代码粘贴在终端就成：
+	把下面代码粘贴在终端就成：  
 
-	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)  
 
 Node ： 使用Homebrew来安装Node.js. brew install node
 
@@ -28,7 +29,7 @@ Xcode ：启动Xcode，并在Xcode | Preferences | Locations菜单中检查一�
 Watchman ： 是由Facebook提供的监视文件系统变更的工具。安装此工具可以提高开发时的性能（packager可以快速捕捉文件的变化从而实现实时刷新）。
 
 Flow ： 是一个静态的JS类型检查工具。
-
+```
 
 
 
